@@ -1,6 +1,13 @@
 {
   "books": [
     {
+      "id": "1",
+      "title": "just one more chapter",
+      "price": 35,
+      "img": "../assets/books/just_one_more_chapter.webp",
+      "action": "read"
+    },
+    {
       "id": "2",
       "title": "The Lord Of The Rings",
       "price": 32.55,
@@ -8,18 +15,18 @@
       "action": "not read"
     },
     {
-      "id": "3",
-      "title": "News of the world",
-      "price": 40,
-      "img": "../assets/books/news of the world.jpg",
+      "id": "4",
+      "title": "Hello world",
+      "price": "12",
+      "img": "../assets/books/read more books.webp",
       "action": "read"
     },
     {
-      "id": "4",
-      "title": "Read more books",
-      "price": 38,
-      "img": "../assets/books/read more books.webp",
-      "action": "not read"
+      "id": "5",
+      "title": "Startup nation",
+      "price": 50,
+      "img": "../assets/books/startup_nation.wedp",
+      "action": "read"
     },
     {
       "id": "6",
@@ -29,25 +36,17 @@
       "action": "read"
     },
     {
-      "id": "1",
-      "title": "Startup nation",
-      "price": 97.6,
-      "img": "../assets/books/startup _nation.webp",
+      "id": "8",
+      "title": "The genius of israel",
+      "price": 55,
+      "img": "../assets/books/the genius of israel.webp",
       "action": "not read"
     },
     {
-      "id": "5",
-      "title": "War ane Peace",
-      "price": 44.5,
-      "img": "../assets/books/war and peace.webp",
-      "action": "not read"
-    },
-    {
-      "id": "7",
-      "title": "just one more chapter",
-      "price": 22,
-      "img": "../assets/books/just_one_more _chapter.webp",
-      "action": "not read"
+      "id": null,
+      "title": null,
+      "price": null,
+      "action": null
     }
   ]
 }
